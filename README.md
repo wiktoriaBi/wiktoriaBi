@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Wiktoria</h1>
-<h3 align="center">An enthusiastic backend developer from Poland</h3>
+<h3 align="center">An enthusiastic Full-Stack developer from Poland</h3>
 
 - 🔭 I’m currently working on **university projects.**
 
 - 🌱 I’m currently learning **Spring Boot and React by developing an SPA application.**
 
-- 👯 I’m looking to collaborate on **any Java / TypeScript project that requires a backend developer.**
+- 👯 I’m looking to collaborate on **any Java / TypeScript project that requires a backend or frontend developer.**
 
 - 📫 How to reach me **wiktoria.bilecka23@gmail.com**
 
